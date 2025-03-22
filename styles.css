@@ -44,3 +44,17 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+
+.result {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-container{
+  width: 100%;
+}
+
+.image-container img{
+  width: 100%;
+}
